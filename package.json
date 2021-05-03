@@ -1,0 +1,23 @@
+{
+  "name": "hellhound",
+  "version": "1.0.0",
+  "description": "VSCode extension to integrate Jinn recipes ",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fazendaaa/Hellhound.git"
+  },
+  "author": "https://github.com/Fazendaaa/",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Fazendaaa/Hellhound/issues"
+  },
+  "homepage": "https://github.com/Fazendaaa/Hellhound#readme"
+}
